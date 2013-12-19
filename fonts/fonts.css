@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'SegoeUINormal';
+    src: url('segoeui/segoeui-webfont.eot');
+    src: url('segoeui/segoeui-webfont.eot?#iefix') format('embedded-opentype'),
+    url('segoeui/segoeui-webfont.woff') format('woff'),
+    url('segoeui/segoeui-webfont.ttf') format('truetype'),
+    url('segoeui/segoeui-webfont.svg#SegoeUINormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SegoeUISemibold';
+    src: url('segoeuisemibold/segoe_ui_semibold-webfont.eot');
+    src: url('segoeuisemibold/segoe_ui_semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('segoeuisemibold/segoe_ui_semibold-webfont.woff') format('woff'),
+         url('segoeuisemibold/segoe_ui_semibold-webfont.ttf') format('truetype'),
+         url('segoeuisemibold/segoe_ui_semibold-webfont.svg#SegoeUISemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
